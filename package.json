@@ -1,0 +1,21 @@
+{
+  "name": "atmapp",
+  "version": "1.0.0",
+  "description": "A program to simulate an ATM terminal",
+  "main": "app/appp.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "Ode Akugbe",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.5.0"
+  }
+}
